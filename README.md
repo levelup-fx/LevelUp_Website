@@ -1,2 +1,2 @@
 # levelup_website
-LevelUp homepage website project
+Official project for the LevelUp Company Website.
