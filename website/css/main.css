@@ -1,0 +1,130 @@
+
+
+/* ==========================================================================
+   LevelUp Homepage Stylesheet
+   ========================================================================== */
+
+/* Fonts */
+
+@font-face 
+{
+    font-family: LevelUp_Main;
+    src: url(../fonts/ka1.ttf);
+}
+
+@font-face 
+{
+    font-family: LevelUp_Secondary;
+    src: url(../fonts/Fipps-Regular.otf);
+}
+
+/* Body */
+
+body
+{
+    font-family: "Trebuchet MS", Sans-Serif;
+}
+
+/* Top navigation */
+
+.top-nav-menu
+{
+    width: 100%;
+}
+
+#levelup_navbar
+{
+    background: #00A05D;
+    border: 0px solid #00A05D;
+}
+
+.level_up_main_font_span
+{
+   font-family: LevelUp_Main;
+}
+
+#levelup_logo
+{
+    font-family: LevelUp_Main;
+    float: left;
+}
+
+#levelup_logo:link, #levelup_logo:visited
+{
+    color: #FFFFFF;
+}
+
+#levelup_logo:hover
+{
+    color: #FE8402;
+}
+
+#levelup_logo:active
+{
+    color: #FFFF00;
+}
+
+.top-nav-link
+{
+    font-family: LevelUp_Secondary;
+    font-size: 50%;
+}
+
+#footer_text
+{
+    font-family: LevelUp_Secondary;
+    color: #00A05D !important;
+    text-align: center;
+}
+
+.top-nav-link:link, .top-nav-link:visited
+{
+    color: #FFFFFF;
+}
+
+.top-nav-link:hover
+{
+    color: #FFFF00 !important;
+}
+
+.top-nav-link:active
+{
+    color: #FE8402 !important;
+}
+
+.jumbotron
+{
+    text-align: center !important;
+}
+
+.jumbotron_heading
+{
+    color: #00A05D !important;
+}
+
+#accordion
+{
+    /*font-family: LevelUp_Secondary !important;
+    font-size: 100% !important;*/
+    /*font-weight: bold !important;*/
+}
+
+.levelup_text
+{
+    color: #00A05D;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
