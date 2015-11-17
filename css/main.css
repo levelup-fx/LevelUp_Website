@@ -1,0 +1,211 @@
+
+
+/* ==========================================================================
+   LevelUp Homepage Stylesheet
+   ========================================================================== */
+
+body 
+{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Fonts */
+
+@font-face 
+{
+    font-family: LevelUp_Main;
+    src: url(../fonts/ka1.ttf);
+}
+
+@font-face 
+{
+    font-family: LevelUp_Secondary;
+    src: url(../fonts/Fipps-Regular.otf);
+}
+
+@font-face 
+{
+    font-family: LevelUp_Accordion_Headers;
+    src: url(../fonts/PressStart2P.ttf);
+}
+
+/* Body */
+
+body
+{
+    font-family: "Trebuchet MS", Sans-Serif;
+}
+
+/* Top navigation */
+
+.top-nav-menu
+{
+    width: 100%;
+}
+
+#levelup_navbar
+{
+    background: #00A05D;
+    border: 0px solid #00A05D;
+    box-shadow: 2px 5px 20px #888888;
+}
+
+.main-container
+{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    z-index: 10;
+}
+
+.level_up_main_font_span
+{
+   font-family: LevelUp_Main;
+}
+
+#levelup_logo
+{
+    font-family: LevelUp_Main;
+    float: left;
+}
+
+#levelup_logo:link, #levelup_logo:visited
+{
+    color: #FFFFFF;
+}
+
+#levelup_logo:hover
+{
+    color: #FE8402;
+}
+
+#levelup_logo:active
+{
+    color: #FFFF00;
+}
+
+.top-nav-link
+{
+    font-family: LevelUp_Secondary;
+    font-size: 50%;
+}
+
+#footer_text
+{
+    font-family: LevelUp_Secondary;
+    color: #00A05D !important;
+    text-align: center;
+}
+
+.top-nav-link:link, .top-nav-link:visited
+{
+    color: #FFFFFF;
+}
+
+.top-nav-link:hover
+{
+    color: #FFFF00 !important;
+}
+
+.top-nav-link:active
+{
+    color: #FE8402 !important;
+}
+
+.jumbotron
+{
+    text-align: center !important;
+}
+
+.jumbotron_heading
+{
+    color: #00A05D !important;
+}
+
+#accordion
+{
+    /*font-family: LevelUp_Secondary !important;
+    font-size: 100% !important;*/
+    /*font-weight: bold !important;*/
+}
+
+.levelup_text
+{
+    color: #00A05D;
+}
+
+.accordion_title
+{
+    font-family: LevelUp_Accordion_Headers;
+    color: #FFF;
+}
+
+.website_container
+{
+    width: 100%;
+
+}
+
+.website_thumbnail
+{
+    margin: 0;
+    padding: 0;
+    float: left;
+    height: 90px;
+}
+
+.website_description
+{
+    padding-left: 130px;
+    min-height: 90px;
+}
+
+.website_title
+{
+    color: #00A05D;
+    font-weight: bold;
+}
+
+a:link, a:visited, a:hover
+{
+    text-decoration: none;
+}
+
+hr
+{
+    border: 0;
+    height: 2px;
+    background: #00A05D;
+    background-image: linear-gradient(to right, #FFF, #00A05D, #FFF);
+}
+
+.document_object, object
+{
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    min-height: 300px;
+    height: 300px;
+    max-height: 1000px;
+}
+
+.centered-text
+{
+    color: #00A05D;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
