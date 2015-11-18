@@ -155,10 +155,7 @@ body
 
 .website_thumbnail
 {
-    margin: 0;
-    padding: 0;
-    float: left;
-    height: 90px;
+    padding-bottom: 20px;
 }
 
 .website_description
